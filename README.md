@@ -6,11 +6,11 @@ Built 3 different types of recommendation system to predict the ratings/stars fo
 
 1)	**Item-based CF recommendation system**
 
-    Implemented item-based recommendation system using *Pearson similarity* formula.
+    Implemented item-based recommendation system using **Pearson similarity** formula.
 
 2)	**Model-based recommendation system**
 
-    Implemented Model-based recommendation system using *XGBregressor*(a regressor based on the decision tree) to train a model and use the validation dataset to validate your result. 
+    Implemented Model-based recommendation system using **XGBregressor**(a regressor based on the decision tree) to train a model and use the validation dataset to validate your result. 
 
 3)	**Hybrid recommendation system**
 
